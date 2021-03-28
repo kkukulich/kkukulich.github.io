@@ -18,7 +18,7 @@ date:   2021-03-28 18:24:51 -0500
 
 ### Description
 
-<img src = "{{site.url}}/assets/images/gradients.png" height="300" width="400" />
-<img src = "{{site.url}}/assets/img/cdf_init.png" height="300" width="400" />
+#<img src = "{{site.url}}/assets/images/gradients.png" height="300" width="400" />
+#<img src = "{{site.url}}/assets/img/cdf_init.png" height="300" width="400" />
 
 
