@@ -5,8 +5,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://kkukulich.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #site-twitter: #if your site has a twitter account, enter it here
 
-logo: Brooklyn.jpg
-page-img: Brooklyn.jpg
+logo: 
+page-img: 
 
 # Author Settings
 author: Katy Kukulich # add your name
