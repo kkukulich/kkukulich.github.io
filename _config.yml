@@ -1,8 +1,8 @@
-title: Research Portfolio
-description: A summary of my research projects, including a description of my PhD thesis, my Masters project, and other projects that i have worked on during my PhD. 
+title: Portfolio
+description: A porfolio to showcase my projects. 
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://arunbaskaran.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://kkukulich.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #site-twitter: #if your site has a twitter account, enter it here
 
 logo: Brooklyn.jpg
